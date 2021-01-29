@@ -71,5 +71,13 @@ const menu = [
     img: './images/item-9.jpeg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
+  {
+    id: 10,
+    title: 'grafik',
+    category: 'grafik',
+    price: 99.99,
+    img: './images/item-9.jpeg',
+    desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eos maiores debitis accusantium sunt. Consectetur nisi repellat, quam praesentium mollitia, ab sapiente in esse odit minima ipsam eligendi incidunt suscipit!`,
+  },
 ];
 export default menu;
